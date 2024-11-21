@@ -6,25 +6,21 @@
 
 >### 1. Letnik:
 
-ANG: Fink
-
-EKI: Kocjan
+ANG: Zupanc
 
 GEO: Škerbot
 
-IKP: Žnideršič
-
-ITK: Volčini
-
 KEM: Kučan
 
-MAT: Grozdanić Pavlin
+MAT: Drljača - Hrovatič
 
-SLO: Šušteršič Menart
+SLO: Kodrič Rašl
 
-VPO: Ajanović
+OSPR: Podpadec
 
-VOS: Sitar
+SPOP: Sitar
+
+URAČ: Urbanija
 
 ---
 
