@@ -24,111 +24,61 @@ URAČ: Urbanija
 
 ---
 
-ITKv: Volčini
-
-IKPv: Žnideršič
-
-EKIp: Čugalj
+URAČv: Urbanija
+SPOPv: Seme
+OSPRv: Podpadec
 
 >### 2. Letnik:
 
-ANG: Fink
+ANG: Zupanc
+
+KEM: Kučan
+
+MAT: Hrovatič
+
+SLO: Kodrič Rašl
+
+OSPR: Podpadec
+
+RAKO: Kralj
 
 DIT: Pene
 
-EKI: Vehovec
-
-FIZ: Benedetič
-
-KTE: Kučan
-
-MAT: Drljača
-
-SLO: Šušteršič Menart
-
-UPN1: Podpadec
-
-UPN2: Pene
-
-VPO: Urbanija
-
 ZGO: Pretnar
-
----
-
-UPN1v: Ajanović
-
-VPOp: Seme
-
-DITv: Tomšič
-
-EKIp: Čugalj
-
->### 3. Letnik:
-
-ANG: Kovač Martinčič
 
 FIZ: Guštin
 
-IKP2: Sitar
+---
 
-MAT: Drljača & Horvatič (vsaka eno polletje)
+OSPRv: Podpadec
 
-OVE: Guštin
+DITv: Pene
 
-PPB: Majnik
+RAKOv: Kralj
 
-RPA: Makarovič
+>### 3. Letnik:
 
-RVP: Krišelj
+ANG: 
 
-SLO: Šušteršič Menart
+FIZ:
 
-VOS: Smole
+MAT: 
+
+SLO: 
+
 
 ---
 
-PPBv: Majnik
-
-RPAv: Makarovič
-
-RVPp: Krišelj
-
-VOSp: Kralj
-
-VOSv: Smole
 
 >### 4. letnik
 
 ANG:
 
-FTE:
-
 MAT:
-
-NIK:
-
-NPB:
-
-NSA:
-
-PSI:
-
-RAO:
-
-RVP:
 
 SLO:
 
 ---
-
-NPBv:
-
-NSAv:
-
-RAOv:
-
-RVPv:
 
 >## Zgubljeni testi:
 
@@ -136,20 +86,10 @@ RVPv:
 
 UME vsi testi
 
-MAT mini preverjanje #5
+SPOP 1. test
 
 >### 2. letnik:
 
-DIT 2. test
-
-UPN2 2. test
-
-VPO 2. test
-
-ZGO 3. test
-
 >### 3. letnik:
-
-SLO: 2. spis
 
 >### 4. letnik
